@@ -5,6 +5,7 @@ date: 2025-01-22 00:00:00 +00:00
 categories: research
 authors: "Christian Gobert, <strong>Evan Diewald</strong>, Jack L. Beuth"
 venue: "Rapid Prototyping Journal"
+paper: https://www.emerald.com/rpj/article-abstract/31/2/393/1242151/Spatter-detection-and-tracking-in-high-speed-video?redirectedFrom=fulltext
 image: /images/spatter.png
 ---
 

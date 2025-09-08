@@ -5,7 +5,7 @@ authors: <strong>Evan Diewald</strong>
 date: 2020-01-01 00:00:00 +00:00
 categories: research
 venue: "University of Texas at Austin Repository"
-website: https://repositories.lib.utexas.edu/items/d245d924-2029-4346-b1e6-57c860509f73
+paper: https://repositories.lib.utexas.edu/items/d245d924-2029-4346-b1e6-57c860509f73
 code: https://github.com/evandiewald/additive-os
 image: /images/additive-os.png
 ---

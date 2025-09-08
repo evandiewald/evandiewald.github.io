@@ -5,7 +5,7 @@ authors: "Edward Reutzel, Jan Petrich, Abdalla R. NASSAR, Shashi Phoha, David J.
 date: 2020-06-01 00:00:00 +00:00
 categories: research
 venue: "U.S. Patent"
-website: https://patents.google.com/patent/US12383960B2/en
+patent: https://patents.google.com/patent/US12383960B2/en
 image: /images/patent.png
 ---
 

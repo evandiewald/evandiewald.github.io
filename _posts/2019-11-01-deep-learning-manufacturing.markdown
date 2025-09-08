@@ -5,7 +5,7 @@ date: 2019-11-01 00:00:00 +00:00
 categories: research
 authors: "Farhad Imani, Ruimin Chen, <strong>Evan Diewald</strong>, Edward Reutzel, Hui Yang"
 venue: "Journal of Manufacturing Science and Engineering"
-website: https://asmedigitalcollection.asme.org/manufacturingscience/article-abstract/141/11/111001/956249/Deep-Learning-of-Variant-Geometry-in-Layerwise?redirectedFrom=fulltext
+paper: https://asmedigitalcollection.asme.org/manufacturingscience/article-abstract/141/11/111001/956249/Deep-Learning-of-Variant-Geometry-in-Layerwise?redirectedFrom=fulltext
 image: /images/asme.jpg
 ---
 
