@@ -1,0 +1,12 @@
+---
+layout: post
+title: "LongHive - Smart Beehive Monitoring System"
+date: 2021-05-01 00:00:00 +00:00
+categories: writing
+venue: "Hackster IoTForGood Grand Prize Winner"
+code: https://github.com/evandiewald/LongHive
+website: https://www.hackster.io/354300/longhive-12d952
+image: /images/longhive.png
+---
+
+Smart beehive monitoring system using TensorFlow Lite for edge inference. Combines audio classification CNNs, environmental sensors, and Raspberry Pi deployment with Helium protocol integration. Featured in Make: Magazine Vol. 75.

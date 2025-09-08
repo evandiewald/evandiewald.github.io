@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Leonid Keselman
+name: Evan Diewald
 
 # Short bio or description (displayed in the header)
-# description: the profile of an engineer, researcher and software developer
+description: Machine Learning Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/circle_bw_crop.jpg
+avatar: https://avatars.githubusercontent.com/u/37876940?s=400&u=2596d84a1507063ef57e5753cb7466d7a47dc427&v=4
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: images/circle_bw_crop.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: lkeselman@gmail.com
+  email: evandiewald@gmail.com
   facebook:
   flickr:
-  github: leonidk
-  instagram: leo_nid_k
-  linkedin:
+  github: evandiewald
+  instagram: 
+  linkedin: https://www.linkedin.com/in/evan-diewald-68786413b/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -42,7 +42,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://leonidk.com" # the base hostname & protocol for your site
+url: "https://evandiewald.com" # the base hostname & protocol for your site
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
