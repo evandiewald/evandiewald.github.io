@@ -8,4 +8,4 @@ website: https://www.nfl.com/news/next-gen-stats-new-advanced-metrics-you-need-t
 image: /images/ngs.png
 ---
 
-Deep learning model deployed across all NFL games for real-time coverage analysis. Uses transformer architecture for spatial-temporal dynamics in football plays, enabling coverage assignment identification and matchup analysis. Built in collaboration with AWS and NFL Next Gen Stats.
+Deep learning model deployed across all NFL games for real-time coverage analysis. Uses transformer architecture for spatial-temporal dynamics in football plays, enabling coverage assignment identification and matchup analysis. Built in collaboration with AWS and NFL Next Gen Stats. **Our work has been accepted to the 2026 MIT Sloan Sports Analytics Conference!**
